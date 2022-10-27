@@ -4,11 +4,13 @@ The dataset we choose it "heart disease".
 
 Title: Heart diseases of Cleveland 
 Introduction: 
-Heart diseases invovle some abnormal heart situations, which can be triggered by several factors. Unfortunately, more and more people suffer from heart diseases nowadays. 
-Heart disease is one of the main causes of death for people in the US. In this project, we will be looking a heart disease problem with the data 
+Heart diseases invovle some abnormal heart situations, which can be triggered by several factors such as smoke or not. Unfortunately, more and more people suffer from heart diseases nowadays. 
+Heart disease is one of the main causes of death for people in the US. In this project, we will be looking a heart disease problem with the data from UCI Machine Learning Repository. 
+We will use the dataset called "processed.cleveland.data". 
+
 
 Preliminary exploratory data analysis:
-Firstly, we need ton 
+
 
 Methods:
 
